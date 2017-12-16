@@ -1,5 +1,8 @@
-# ProjectPatherClient
+# Project Pather Client
 A pure Java Three-Dimensional online multiplayer melee game using raycasting render method.
+
+#### Server End:
+https://github.com/MarkYHZhang/ProjectPatherServer
 
 ### Video Demonstration
 [![Project Pather Video Demonstration](https://img.youtube.com/vi/mLWCEoHNXlc/0.jpg)](https://www.youtube.com/watch?v=mLWCEoHNXlc)
