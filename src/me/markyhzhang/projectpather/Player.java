@@ -33,6 +33,7 @@ public class Player implements Comparable<Player>{
 		}
 	}
 
+	
     /**
      * The UUID of player
      */
