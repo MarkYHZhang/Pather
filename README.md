@@ -5,7 +5,7 @@ A pure Java Three-Dimensional online multiplayer melee game using raycasting ren
 https://github.com/MarkYHZhang/ProjectPatherServer
 
 ### Video Demonstration
-[![Project Pather Video Demonstration](https://img.youtube.com/vi/mLWCEoHNXlc/0.jpg)](https://www.youtube.com/embed/mLWCEoHNXlc)
+[![Project Pather Video Demonstration](https://img.youtube.com/vi/rZfde6Bnzm0/0.jpg)](https://www.youtube.com/embed/rZfde6Bnzm0)
 
 ### Additional Info
 - Completely custom game engine purely coded in Java.
