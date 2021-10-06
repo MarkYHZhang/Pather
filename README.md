@@ -4,7 +4,7 @@ A pure Java Three-Dimensional online multiplayer melee game using raycasting ren
 #### Server End:
 https://github.com/MarkYHZhang/ProjectPatherServer
 
-### Video Demonstration
+### Video Demonstration (click the image below to view video)
 [![Project Pather Video Demonstration](https://img.youtube.com/vi/rZfde6Bnzm0/0.jpg)](https://www.youtube.com/embed/rZfde6Bnzm0)
 
 ### Additional Info
